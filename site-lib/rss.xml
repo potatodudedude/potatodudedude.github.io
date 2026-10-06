@@ -1,4 +1,218 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shadow of the Titan wiki]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Shadow of the Titan wiki</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 03 Oct 2026 10:42:02 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 03 Oct 2026 10:40:00 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Two-handed Maces]]></title><description><![CDATA[Simple in concept, a metal ball on the end of a stick. Despite this, maces can be crude or intricately ornate. Capable of delivering serious blunt force, maces are the premier choice for cracking heavy armour. Hand requirement: Two handed
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shadow of the Titan wiki]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Shadow of the Titan wiki</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 06 Oct 2026 08:43:43 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 06 Oct 2026 08:43:07 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Berserker Chain]]></title><description><![CDATA[A crude, thick, unwieldy chain of iron, usually with a weighted end. The berserker chain is the distinct weapon of the <a data-tooltip-position="top" aria-label="Steelscale Clan" data-href="Steelscale Clan" href="factions/steelscale-clan.html" class="internal-link" target="_self" rel="noopener nofollow">Steelscale</a> berserkers. Simply holding it fills one's mind with thoughts of reckless abandon.Hand requirement: Two handed<br>
+Unique traits: Wielding the berserker chain allows you to <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grapple</a> and access to grappling specific moves under <a data-href="Martial Arts" href="items-&amp;-crafting/weapons/melee/martial-arts.html" class="internal-link" target="_self" rel="noopener nofollow">Martial Arts</a>.<br>
+This is a faction-unique weapon, it requires specialist training from the <a data-href="Steelscale Clan" href="factions/steelscale-clan.html" class="internal-link" target="_self" rel="noopener nofollow">Steelscale Clan</a> to gain proficiency.Hit chance: Strength/2 + Proficiency
+Damage: 2d6
+Penetration: 2 x Strength (Capped by 2 x Proficiency)
+Blunt Force Trauma: Strength (Min 1)
+Total Range: 3m
+Optimal Range: 2m
+Melee Defence: 0
+Weight: 12kg
+Cost: 1200gFaction Unique Weapon: You can only craft this weapon's parts if you have proficiency in it or if taught by the relevant faction.Parts: Heavy Material: 10 metal units
+Craft Time: 12 time-units
+Cost: 1200g
+Weight: 12kg Listed are the variants available through shops. If a stat is not stated, it is the same as the base weapon.
+Penetration: Base - 2
+Cost: 400g
+Made of tier 1 materials. Damage: Base + 2
+Cost: 3600g
+Made of tier 3 materials.
+Values are organised as such: (Hit chance | Damage | Penetration | BFT | Range)
+Values below serve as add-ons to the weapon's base stats, apart from range.
+"S" or "D" refers to your strength or dexterity modifier.
+"S|D" means to use either strength or dexterity modifier, whichever is higher.
+"S|D" is always used as an enclosed term, meaning terms like "S|D+1" refers to "(S|D)+1" and not "S|(D+1)".
++0 means no bonuses or maluses. =x means the value is set to x.
+"|" is used to denote "or", "/" is used to denote divide.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+<br>This is your default <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
+(+0 | +0 | +0 | +0 | finishes at 2m)
+Regular action + movement speed.
+<br>See <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Charging" data-href="Melee Attacks#Charging" href="rules/melee-attacks.html#Charging" class="internal-link" target="_self" rel="noopener nofollow">charging rules</a> for more details.
+(+(S/2) | =0 | =0 | +0 | 1m)
+Regular action.
+<br>Can be used when <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappled</a>.
+<br><a data-href="Crocodilians" href="races/playable/crocodilians.html" class="internal-link" target="_self" rel="noopener nofollow">Crocodilians</a> add their strength bonus as extra blunt force trauma, capped by proficiency.
+Moves target back 1m.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+<br>Lasso a target 2m away and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them 1m closer.
+<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
+(=0 | =0 | =0 | =0 | 1m)
+Regular action.
+Grappling move.
+<br>Only usable on a <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappled</a> target.
+<br>Choke the enemy with your chain, <a data-tooltip-position="top" aria-label="Statuses &gt; Strangled" data-href="Statuses#Strangled" href="rules/statuses.html#Strangled" class="internal-link" target="_self" rel="noopener nofollow">strangling</a> them.
+Expert level DC.
+(+0 | x1/2 | x1/2 | x1/2 | 3m)
+Regular action.
+Shoot the weighted head out, delivering an attack at 3m.
+(=0 | =0 | =0 | =0 | 0m)
+Bonus action, toggleable.
+Attack with advantage, but suffer disadvantage to all incoming attacks.
+Does not affect grappling moves.
+Constantly keep your chain in motion, providing a hazardous approach.
+<br>You can make 1 additional <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a> per turn.
+<br><a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">Opportunity attacks</a> no longer add to or are subject to <a data-tooltip-position="top" aria-label="Melee Attacks &gt; View Cones and Flanking Attacks" data-href="Melee Attacks#View Cones and Flanking Attacks" href="rules/melee-attacks.html#View Cones and Flanking Attacks" class="internal-link" target="_self" rel="noopener nofollow">view cone</a> restrictions.
+(+0 | x1/2 | x1/2 | x1/2 | 2m)
+Regular action.
+<br>Smash the target's shin with a heavy chain swing, knocking them <a data-tooltip-position="top" aria-label="Statuses &gt; Prone" data-href="Statuses#Prone" href="rules/statuses.html#Prone" class="internal-link" target="_self" rel="noopener nofollow">prone</a>.
+(=0 | =0 | =0 | =0 | 0m)
+Regular action.
+<br>Combo starter, tangle your target with your chains, setting them up for <a data-href="#...Smash" href="items-&amp;-crafting/weapons/melee/berserker-chain.html#...Smash_0" class="internal-link" target="_self" rel="noopener nofollow">...Smash</a>.
+<br>Combo is broken if you are <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moved</a>/disabled. Moving of your own volition also counts.
+<br>If <a data-href="#Wanton Aggression" href="items-&amp;-crafting/weapons/melee/berserker-chain.html#Wanton_Aggression_0" class="internal-link" target="_self" rel="noopener nofollow">Wanton Aggression</a> is active, allows you to move at half movement speed without breaking combo.
+(+S | x2 | x2 | x2 | 2m)
+Regular action.
+<br>Combo finisher, after <a data-href="#Whirlwind..." href="items-&amp;-crafting/weapons/melee/berserker-chain.html#Whirlwind..._0" class="internal-link" target="_self" rel="noopener nofollow">Whirlwind...</a>, smash your target, <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moving</a> the target 2m in any direction whilst knocking them <a data-tooltip-position="top" aria-label="Statuses &gt; Prone" data-href="Statuses#Prone" href="rules/statuses.html#Prone" class="internal-link" target="_self" rel="noopener nofollow">prone</a>. Each status requires a separate check.
+<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
+Expert level DC.
+]]></description><link>items-&amp;-crafting/weapons/melee/berserker-chain.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Berserker Chain.md</guid><pubDate>Tue, 06 Oct 2026 08:37:48 GMT</pubDate></item><item><title><![CDATA[Halberds]]></title><description><![CDATA[A spear with an axe head on the end, the halberd is a versatile weapon. It provides reach, blunt force against armour, and the axe head allows for manipulating the position of enemies.Hand requirement: Two handed
+Unique traits: -Hit chance: Strength + Proficiency
+Damage: 1d10
+Penetration: Strength (Capped by Proficiency)
+Blunt Force Trauma: Strength (Min 1)
+Total Range: 2m
+Optimal Range: 2m
+Melee Defence: 0
+Weight: 4kg
+Cost: 400gParts: Blade Material: 4 metal units
+Craft Time: 10 time-units
+Cost: 400g
+Weight: 2kg Long-Haft Material: 4 wood units
+Craft Time: 4 time-units
+Cost: 80g
+Weight: 2kg Listed are the variants available through shops. If a stat is not stated, it is the same as the base weapon.
+Damage: Base - 2
+Penetration: Base - 1
+Rolling a 1 on an attack roll causes the long-haft to break.
+Cost: 102g
+Made of tier 1 materials. Damage: Base + 2
+Cost: 1440g
+Weight: 3kg
+Made of tier 3 materials.
+Values are organised as such: (Hit chance | Damage | Penetration | BFT | Range)
+Values below serve as add-ons to the weapon's base stats, apart from range.
+"S" or "D" refers to your strength or dexterity modifier.
+"S|D" means to use either strength or dexterity modifier, whichever is higher.
+"S|D" is always used as an enclosed term, meaning terms like "S|D+1" refers to "(S|D)+1" and not "S|(D+1)".
++0 means no bonuses or maluses. =x means the value is set to x.
+"|" is used to denote "or", "/" is used to denote divide.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+This is your default <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
+(=0 | =0 | =0 | =0 | 2m)
+Regular action.
+<br>Allows you to use <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a> until your next turn.
+<br>Does not count as an <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
+(+0 | +0 | +0 | +0 | finishes at 2m)
+Regular action + movement speed.
+<br>See <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Charging" data-href="Melee Attacks#Charging" href="rules/melee-attacks.html#Charging" class="internal-link" target="_self" rel="noopener nofollow">charging rules</a> for more details.
+(+0 | x1/2 | x1/2 | x1/2 | 1m)
+Regular action.
+Awkwardly smack a target too close with the shaft of the halberd.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+<br>Hook your halberd axe head around the target and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them 1m.
+The target must still be within your optimal range at the end of the movement.
+<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
+(+0 | +0 | +0 | +0 | 1-2m)
+Regular action.
+<br>Place your spearhead on the enemy and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them back 1m.
+<br>You(if moving) and the target do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
+If used on an enemy at 2m, you move forward 1m with them.
+x1/2 damage, penetration and blunt force trauma.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+<br>Hook your axe around a target 2m away and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them 1m closer. You move 1m back with them.
+<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
+(+S | x1/2 | x1/2 | x1/2 | 2m)
+Regular action.
+<br>Inflicts <a data-tooltip-position="top" aria-label="Statuses &gt; Pinned" data-href="Statuses#Pinned" href="rules/statuses.html#Pinned" class="internal-link" target="_self" rel="noopener nofollow">pinned</a>(1).
+<br>Combo starter, slash your target's weapon arm, setting them up for <a data-href="#...Circular Fall" href="items-&amp;-crafting/weapons/melee/halberds.html#...Circular_Fall_0" class="internal-link" target="_self" rel="noopener nofollow">...Circular Fall</a>.
+<br>Combo is broken if your target moves or you are <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moved</a>/disabled.
+(+S | x2 | x2 | x2 | 2m)
+Regular action.
+<br>Combo finisher, after <a data-href="#Batter..." href="items-&amp;-crafting/weapons/melee/halberds.html#Batter..._0" class="internal-link" target="_self" rel="noopener nofollow">Batter...</a>, swing your halberd in a large circular motion, smashing into the enemy's neck.
+]]></description><link>items-&amp;-crafting/weapons/melee/halberds.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Halberds.md</guid><pubDate>Tue, 06 Oct 2026 08:35:57 GMT</pubDate></item><item><title><![CDATA[Spears]]></title><description><![CDATA[The "king" of the battlefield, spears are popular due to how easy they are to produce and use. Their long length makes spears excellent at denying space, and despite their simple nature, skilled wielders can perform complex moves to surprise their enemies.Hand requirement: Two handed
+Unique traits: Tier 1 weapon proficiency is given for free. Spears can be wielded with a shield in the off-hand at the cost of reduced damage.Hit chance: Strength | Dexterity + Proficiency
+Damage: (Strength | Dexterity + 1d10) | (Strength | Dexterity + 1d6 (with shield))
+Penetration: Strength | Dexterity (Capped by Proficiency)
+Blunt Force Trauma: 0
+Total Range: 1-2m
+Optimal Range: 2m
+Melee Defence: Dexterity
+Ranged Defence: Dexterity (Requires <a data-tooltip-position="top" aria-label="Traits &gt; Agile" data-href="Traits#Agile" href="rules/traits.html#Agile" class="internal-link" target="_self" rel="noopener nofollow">agile</a> trait)
+Weight: 3kg
+Cost: 100gParts: Blade Material: 1 metal units
+Craft Time: 2 time-units
+Cost: 20g
+Weight: 1kg Long-Haft Material: 4 wood units
+Craft Time: 4 time-units
+Cost: 80g
+Weight: 2kg Listed are the variants available through shops. If a stat is not stated, it is the same as the base weapon.
+Damage: (Base - 2) | (Base - 1 (with shield))
+Penetration: Base - 1
+Rolling a 1 on an attack roll causes the long-haft to break.
+Cost: 7g
+Made of tier 1 materials. Damage: (Base + 2) | (Base + 1 (with shield))
+Cost: 300g
+Weight: 2kg
+Made of tier 3 materials.
+Values are organised as such: (Hit chance | Damage | Penetration | BFT | Range)
+Values below serve as add-ons to the weapon's base stats, apart from range.
+"S" or "D" refers to your strength or dexterity modifier.
+"S|D" means to use either strength or dexterity modifier, whichever is higher.
+"S|D" is always used as an enclosed term, meaning terms like "S|D+1" refers to "(S|D)+1" and not "S|(D+1)".
++0 means no bonuses or maluses. =x means the value is set to x.
+"|" is used to denote "or", "/" is used to denote divide.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+Pointy end forward.
+<br>This is your default <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
+(=0 | =0 | =0 | =0 | 2m)
+Regular action.
+<br>Allows you to use <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a> until your next turn.
+<br>Does not count as an <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
+(+0 | +0 | +0 | +0 | finishes at 2m)
+Regular action + movement speed.
+<br>See <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Charging" data-href="Melee Attacks#Charging" href="rules/melee-attacks.html#Charging" class="internal-link" target="_self" rel="noopener nofollow">charging rules</a> for more details.
+(+S|D | +0 | +0 | +0 | 1-4m)
+Regular action.
+Throws away your weapon... hope you know what you're doing.
+(+0 | x1/2 | x1/2 | x1/2 | 1m)
+Regular action.
+Awkwardly smack a target too close with the shaft of the spear.
+(+0 | +0 | +0 | +0 | 1-2m)
+Regular action.
+<br>Cover your retreat with rapid thrusts, allowing you to move back 1m whilst ignoring all <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>.
+x1/2 damage, penetration and blunt force trauma if used at 1m.
+(+0 | x1/2 | x1/2 | +S|D | 1-2m)
+Regular action.
+Swing your spear around to smack them with the blunt end.
+Minimum of 1 blunt force trauma.
+(=0 | =0 | =0 | =0 | 2m)
+Regular action.
+<br>Enter a reactive stance, allowing you to <a data-href="#Zone" href="items-&amp;-crafting/weapons/melee/spears.html#Zone_0" class="internal-link" target="_self" rel="noopener nofollow">Zone</a> and unlimited <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>.
+<br><a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">Opportunity attacks</a> now trigger after any enemy attack in your view cone as well.
+View cone restrictions when attacking still apply.
+Lasts until your next turn or if you fail to defend any attack.
+(+0 | +0 | +0 | +0 | 2m)
+Regular action.
+<br>Requires <a data-tooltip-position="top" aria-label="Traits &gt; Agile" data-href="Traits#Agile" href="rules/traits.html#Agile" class="internal-link" target="_self" rel="noopener nofollow">agile</a> trait.
+<br>Slash your target and move up to 2m whilst ignoring all <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>.
+The target must still be within your optimal range at the end of the movement.
+(+S|D | x1/2 | x1/2 | x1/2 | 2m)
+Regular action.
+<br>Inflicts <a data-tooltip-position="top" aria-label="Statuses &gt; Pinned" data-href="Statuses#Pinned" href="rules/statuses.html#Pinned" class="internal-link" target="_self" rel="noopener nofollow">pinned</a>(1).
+<br>Combo starter, divert your target's attention high, setting them up for <a data-href="#...Sweep Low" href="items-&amp;-crafting/weapons/melee/spears.html#...Sweep_Low_0" class="internal-link" target="_self" rel="noopener nofollow">...Sweep Low</a>.
+<br>Combo is broken if your target moves or you are <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moved</a>/disabled.
+(+S|D | +0 | +0 | +0 | 2m)
+Regular action.
+<br>Combo finisher, used after <a data-href="#Swing High..." href="items-&amp;-crafting/weapons/melee/spears.html#Swing_High..._0" class="internal-link" target="_self" rel="noopener nofollow">Swing High...</a>, sweep their legs and knock your target <a data-tooltip-position="top" aria-label="Statuses &gt; Prone" data-href="Statuses#Prone" href="rules/statuses.html#Prone" class="internal-link" target="_self" rel="noopener nofollow">prone</a>.
+Expert level DC.
+]]></description><link>items-&amp;-crafting/weapons/melee/spears.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Spears.md</guid><pubDate>Tue, 06 Oct 2026 08:34:41 GMT</pubDate></item><item><title><![CDATA[Two-handed Maces]]></title><description><![CDATA[Simple in concept, a metal ball on the end of a stick. Despite this, maces can be crude or intricately ornate. Capable of delivering serious blunt force, maces are the premier choice for cracking heavy armour. Hand requirement: Two handed
 Unique traits: -Hit chance: Strength + Proficiency
 Damage: 2d4
 Penetration: 2 x Strength (Capped by 2 x Proficiency)
@@ -2423,76 +2637,7 @@ Regular action.
 Regular action.
 <br>Combo finisher, after <a data-href="#Wind..." href="items-&amp;-crafting/weapons/melee/two-handed-flails.html#Wind..._0" class="internal-link" target="_self" rel="noopener nofollow">Wind...</a>, release a devastating hit, inflicting <a data-tooltip-position="top" aria-label="Statuses &gt; Dazed" data-href="Statuses#Dazed" href="rules/statuses.html#Dazed" class="internal-link" target="_self" rel="noopener nofollow">dazed</a>(3).
 Expert level DC.
-]]></description><link>items-&amp;-crafting/weapons/melee/two-handed-flails.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Two-handed Flails.md</guid><pubDate>Mon, 24 Aug 2026 09:46:18 GMT</pubDate></item><item><title><![CDATA[Berserker Chain]]></title><description><![CDATA[A crude, thick, unwieldy chain of iron, usually with a weighted end. The berserker chain is the distinct weapon of the <a data-tooltip-position="top" aria-label="Steelscale Clan" data-href="Steelscale Clan" href="factions/steelscale-clan.html" class="internal-link" target="_self" rel="noopener nofollow">Steelscale</a> berserkers. Simply holding it fills one's mind with thoughts of reckless abandon.Hand requirement: Two handed<br>
-Unique traits: Wielding the berserker chain allows you to <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grapple</a> and access to grappling specific moves under <a data-href="Martial Arts" href="items-&amp;-crafting/weapons/melee/martial-arts.html" class="internal-link" target="_self" rel="noopener nofollow">Martial Arts</a>.<br>
-This is a faction-unique weapon, it requires specialist training from the <a data-href="Steelscale Clan" href="factions/steelscale-clan.html" class="internal-link" target="_self" rel="noopener nofollow">Steelscale Clan</a> to gain proficiency.Hit chance: Strength/2 + Proficiency
-Damage: 2d6
-Penetration: 2 x Strength (Capped by 2 x Proficiency)
-Blunt Force Trauma: Strength (Min 1)
-Total Range: 3m
-Optimal Range: 2m
-Melee Defence: 0
-Weight: 12kg
-Cost: 1200gFaction Unique Weapon: You can only craft this weapon's parts if you have proficiency in it or if taught by the relevant faction.Parts: Heavy Material: 10 metal units
-Craft Time: 12 time-units
-Cost: 1200g
-Weight: 12kg Listed are the variants available through shops. If a stat is not stated, it is the same as the base weapon.
-Penetration: Base - 2
-Cost: 400g
-Made of tier 1 materials. Damage: Base + 2
-Cost: 3600g
-Made of tier 3 materials.
-Values are organised as such: (Hit chance | Damage | Penetration | BFT | Range)
-Values below serve as add-ons to the weapon's base stats, apart from range.
-"S" or "D" refers to your strength or dexterity modifier.
-"S|D" means to use either strength or dexterity modifier, whichever is higher.
-"S|D" is always used as an enclosed term, meaning terms like "S|D+1" refers to "(S|D)+1" and not "S|(D+1)".
-+0 means no bonuses or maluses. =x means the value is set to x.
-"|" is used to denote "or", "/" is used to denote divide.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-<br>This is your default <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
-(+0 | +0 | +0 | +0 | finishes at 2m)
-Regular action + movement speed.
-<br>See <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Charging" data-href="Melee Attacks#Charging" href="rules/melee-attacks.html#Charging" class="internal-link" target="_self" rel="noopener nofollow">charging rules</a> for more details.
-(+(S/2) | =0 | =0 | +0 | 1m)
-Regular action.
-<br>Can be used when <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappled</a>.
-<br><a data-href="Crocodilians" href="races/playable/crocodilians.html" class="internal-link" target="_self" rel="noopener nofollow">Crocodilians</a> add their strength bonus as extra blunt force trauma, capped by proficiency.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-<br>Lasso a target 2m away and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them 1m closer.
-<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
-(=0 | =0 | =0 | =0 | 1m)
-Regular action.
-Grappling move.
-<br>Only usable on a <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappled</a> target.
-<br>Choke the enemy with your chain, <a data-tooltip-position="top" aria-label="Statuses &gt; Strangled" data-href="Statuses#Strangled" href="rules/statuses.html#Strangled" class="internal-link" target="_self" rel="noopener nofollow">strangling</a> them.
-Expert level DC.
-(+0 | x1/2 | x1/2 | x1/2 | 3m)
-Regular action.
-Shoot the weighted head out, delivering an attack at 3m.
-(=0 | =0 | =0 | =0 | 0m)
-Bonus action, toggleable.
-Attack with advantage, but suffer disadvantage to all incoming attacks.
-Does not affect grappling moves.
-Constantly keep your chain in motion, providing a hazardous approach.
-<br>You can make 1 additional <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a> per turn.
-<br><a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">Opportunity attacks</a> no longer add to or are subject to <a data-tooltip-position="top" aria-label="Melee Attacks &gt; View Cones and Flanking Attacks" data-href="Melee Attacks#View Cones and Flanking Attacks" href="rules/melee-attacks.html#View Cones and Flanking Attacks" class="internal-link" target="_self" rel="noopener nofollow">view cone</a> restrictions.
-(+0 | x1/2 | x1/2 | x1/2 | 2m)
-Regular action.
-<br>Smash the target's shin with a heavy chain swing, knocking them <a data-tooltip-position="top" aria-label="Statuses &gt; Prone" data-href="Statuses#Prone" href="rules/statuses.html#Prone" class="internal-link" target="_self" rel="noopener nofollow">prone</a>.
-(=0 | =0 | =0 | =0 | 0m)
-Regular action.
-<br>Combo starter, tangle your target with your chains, setting them up for <a data-href="#...Smash" href="items-&amp;-crafting/weapons/melee/berserker-chain.html#...Smash_0" class="internal-link" target="_self" rel="noopener nofollow">...Smash</a>.
-<br>Combo is broken if you are <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moved</a>/disabled. Moving of your own volition also counts.
-<br>If <a data-href="#Wanton Aggression" href="items-&amp;-crafting/weapons/melee/berserker-chain.html#Wanton_Aggression_0" class="internal-link" target="_self" rel="noopener nofollow">Wanton Aggression</a> is active, allows you to move at half movement speed without breaking combo.
-(+S | x2 | x2 | x2 | 2m)
-Regular action.
-<br>Combo finisher, after <a data-href="#Whirlwind..." href="items-&amp;-crafting/weapons/melee/berserker-chain.html#Whirlwind..._0" class="internal-link" target="_self" rel="noopener nofollow">Whirlwind...</a>, smash your target, <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moving</a> the target 2m in any direction whilst knocking them <a data-tooltip-position="top" aria-label="Statuses &gt; Prone" data-href="Statuses#Prone" href="rules/statuses.html#Prone" class="internal-link" target="_self" rel="noopener nofollow">prone</a>. Each status requires a separate check.
-<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
-Expert level DC.
-]]></description><link>items-&amp;-crafting/weapons/melee/berserker-chain.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Berserker Chain.md</guid><pubDate>Mon, 24 Aug 2026 08:53:29 GMT</pubDate></item><item><title><![CDATA[Short Swords]]></title><description><![CDATA[The sword is perhaps the most iconic medieval weapon to ever exist. Deadly against unarmoured opponents, the short sword finds its place as a reliable sidearm and a status symbol. Hand requirement: One handed
+]]></description><link>items-&amp;-crafting/weapons/melee/two-handed-flails.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Two-handed Flails.md</guid><pubDate>Mon, 24 Aug 2026 09:46:18 GMT</pubDate></item><item><title><![CDATA[Short Swords]]></title><description><![CDATA[The sword is perhaps the most iconic medieval weapon to ever exist. Deadly against unarmoured opponents, the short sword finds its place as a reliable sidearm and a status symbol. Hand requirement: One handed
 Unique traits: -Hit chance: Dexterity + Proficiency
 Damage: Dexterity + 1d8
 Penetration: 0
@@ -2623,83 +2768,7 @@ Regular action.
 (+D | x2 | x2 | x2 | 1m)
 Regular action.
 <br>Combo finisher, after <a data-href="#Rip..." href="items-&amp;-crafting/weapons/melee/starlight-sickles.html#Rip..._0" class="internal-link" target="_self" rel="noopener nofollow">Rip...</a>, deliver rapid slashes. If dual wielding star sickles, this attack is doubled.
-]]></description><link>items-&amp;-crafting/weapons/melee/starlight-sickles.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Starlight Sickles.md</guid><pubDate>Mon, 24 Aug 2026 08:32:56 GMT</pubDate></item><item><title><![CDATA[Spears]]></title><description><![CDATA[The "king" of the battlefield, spears are popular due to how easy they are to produce and use. Their long length makes spears excellent at denying space, and despite their simple nature, skilled wielders can perform complex moves to surprise their enemies.Hand requirement: Two handed
-Unique traits: Tier 1 weapon proficiency is given for free. Spears can be wielded with a shield in the off-hand at the cost of reduced damage.Hit chance: Strength | Dexterity + Proficiency
-Damage: (Strength | Dexterity + 1d10) | (Strength | Dexterity + 1d6 (with shield))
-Penetration: Strength | Dexterity (Capped by Proficiency)
-Blunt Force Trauma: 0
-Total Range: 1-2m
-Optimal Range: 2m
-Melee Defence: Dexterity
-Ranged Defence: Dexterity (Requires <a data-tooltip-position="top" aria-label="Traits &gt; Agile" data-href="Traits#Agile" href="rules/traits.html#Agile" class="internal-link" target="_self" rel="noopener nofollow">agile</a> trait)
-Weight: 3kg
-Cost: 100gParts: Blade Material: 1 metal units
-Craft Time: 2 time-units
-Cost: 20g
-Weight: 1kg Long-Haft Material: 4 wood units
-Craft Time: 4 time-units
-Cost: 80g
-Weight: 2kg Listed are the variants available through shops. If a stat is not stated, it is the same as the base weapon.
-Damage: (Base - 2) | (Base - 1 (with shield))
-Penetration: Base - 1
-Rolling a 1 on an attack roll causes the long-haft to break.
-Cost: 7g
-Made of tier 1 materials. Damage: (Base + 2) | (Base + 1 (with shield))
-Cost: 300g
-Weight: 2kg
-Made of tier 3 materials.
-Values are organised as such: (Hit chance | Damage | Penetration | BFT | Range)
-Values below serve as add-ons to the weapon's base stats, apart from range.
-"S" or "D" refers to your strength or dexterity modifier.
-"S|D" means to use either strength or dexterity modifier, whichever is higher.
-"S|D" is always used as an enclosed term, meaning terms like "S|D+1" refers to "(S|D)+1" and not "S|(D+1)".
-+0 means no bonuses or maluses. =x means the value is set to x.
-"|" is used to denote "or", "/" is used to denote divide.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-Pointy end forward.
-<br>This is your default <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
-(=0 | =0 | =0 | =0 | 2m)
-Regular action.
-<br>Allows you to use <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a> until your next turn.
-<br>Does not count as an <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
-(+0 | +0 | +0 | +0 | finishes at 2m)
-Regular action + movement speed.
-<br>See <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Charging" data-href="Melee Attacks#Charging" href="rules/melee-attacks.html#Charging" class="internal-link" target="_self" rel="noopener nofollow">charging rules</a> for more details.
-(+S|D | +0 | +0 | +0 | 1-4m)
-Regular action.
-Throws away your weapon... hope you know what you're doing.
-(+0 | x1/2 | x1/2 | x1/2 | 1m)
-Regular action.
-Awkwardly smack a target too close with the shaft of the spear.
-(+0 | +0 | +0 | +0 | 1-2m)
-Regular action.
-<br>Cover your retreat with rapid thrusts, allowing you to move back 1m whilst ignoring all <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>.
-(+0 | x1/2 | x1/2 | +S|D | 1-2m)
-Regular action.
-Swing your spear around to smack them with the blunt end.
-Minimum of 1 blunt force trauma.
-(=0 | =0 | =0 | =0 | 2m)
-Regular action.
-<br>Enter a reactive stance, allowing you to <a data-href="#Zone" href="items-&amp;-crafting/weapons/melee/spears.html#Zone_0" class="internal-link" target="_self" rel="noopener nofollow">Zone</a> and unlimited <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>.
-<br><a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">Opportunity attacks</a> now trigger after any enemy attack in your view cone as well.
-View cone restrictions when attacking still apply.
-Lasts until your next turn or if you fail to defend any attack.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-<br>Requires <a data-tooltip-position="top" aria-label="Traits &gt; Agile" data-href="Traits#Agile" href="rules/traits.html#Agile" class="internal-link" target="_self" rel="noopener nofollow">agile</a> trait.
-<br>Slash your target and move up to 2m whilst ignoring all <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>.
-The target must still be within your optimal range at the end of the movement.
-(+S|D | x1/2 | x1/2 | x1/2 | 2m)
-Regular action.
-<br>Inflicts <a data-tooltip-position="top" aria-label="Statuses &gt; Pinned" data-href="Statuses#Pinned" href="rules/statuses.html#Pinned" class="internal-link" target="_self" rel="noopener nofollow">pinned</a>(1).
-<br>Combo starter, divert your target's attention high, setting them up for <a data-href="#...Sweep Low" href="items-&amp;-crafting/weapons/melee/spears.html#...Sweep_Low_0" class="internal-link" target="_self" rel="noopener nofollow">...Sweep Low</a>.
-<br>Combo is broken if your target moves or you are <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moved</a>/disabled.
-(+S|D | +0 | +0 | +0 | 2m)
-Regular action.
-<br>Combo finisher, used after <a data-href="#Swing High..." href="items-&amp;-crafting/weapons/melee/spears.html#Swing_High..._0" class="internal-link" target="_self" rel="noopener nofollow">Swing High...</a>, sweep their legs and knock your target <a data-tooltip-position="top" aria-label="Statuses &gt; Prone" data-href="Statuses#Prone" href="rules/statuses.html#Prone" class="internal-link" target="_self" rel="noopener nofollow">prone</a>.
-Expert level DC.
-]]></description><link>items-&amp;-crafting/weapons/melee/spears.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Spears.md</guid><pubDate>Mon, 24 Aug 2026 08:06:00 GMT</pubDate></item><item><title><![CDATA[Pikes]]></title><description><![CDATA[In battle, reaching and stabbing your opponent first is a massive advantage. Taking this concept to its extreme, the result is a pike: essentially a really long spear. Providing incredible reach comes at a great cost, however. Slow to manoeuvre and heavy, a pike user can find themselves at a serious disadvantage if not positioned properly.Hand requirement: Two handed
+]]></description><link>items-&amp;-crafting/weapons/melee/starlight-sickles.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Starlight Sickles.md</guid><pubDate>Mon, 24 Aug 2026 08:32:56 GMT</pubDate></item><item><title><![CDATA[Pikes]]></title><description><![CDATA[In battle, reaching and stabbing your opponent first is a massive advantage. Taking this concept to its extreme, the result is a pike: essentially a really long spear. Providing incredible reach comes at a great cost, however. Slow to manoeuvre and heavy, a pike user can find themselves at a serious disadvantage if not positioned properly.Hand requirement: Two handed
 Unique traits: Pikes can be wielded with a shield in the off-hand at the cost of reduced damage. Pike moves can only be used when the pike is lowered.
 You cannot freely adjust your view cone when the pike is lowered.
 Shifting your movement cone in the lowered position now costs 2m movement speed per 45 degrees turned.
@@ -3271,73 +3340,7 @@ Gain +2m movement speed when executing this move.
 <br>Move up to 2m and slash with your default attack once for every 2m movement speed you possess, ignoring all <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a> and <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a> with no exception.
 You must move, then attack for each cycle.
 This attack inflicts but is not affected by view cone restrictions.
-]]></description><link>items-&amp;-crafting/weapons/melee/numerian-blades.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Numerian Blades.md</guid><pubDate>Fri, 21 Aug 2026 09:23:53 GMT</pubDate></item><item><title><![CDATA[Halberds]]></title><description><![CDATA[A spear with an axe head on the end, the halberd is a versatile weapon. It provides reach, blunt force against armour, and the axe head allows for manipulating the position of enemies.Hand requirement: Two handed
-Unique traits: -Hit chance: Strength + Proficiency
-Damage: 1d10
-Penetration: Strength (Capped by Proficiency)
-Blunt Force Trauma: Strength (Min 1)
-Total Range: 2m
-Optimal Range: 2m
-Melee Defence: 0
-Weight: 4kg
-Cost: 400gParts: Blade Material: 4 metal units
-Craft Time: 10 time-units
-Cost: 400g
-Weight: 2kg Long-Haft Material: 4 wood units
-Craft Time: 4 time-units
-Cost: 80g
-Weight: 2kg Listed are the variants available through shops. If a stat is not stated, it is the same as the base weapon.
-Damage: Base - 2
-Penetration: Base - 1
-Rolling a 1 on an attack roll causes the long-haft to break.
-Cost: 102g
-Made of tier 1 materials. Damage: Base + 2
-Cost: 1440g
-Weight: 3kg
-Made of tier 3 materials.
-Values are organised as such: (Hit chance | Damage | Penetration | BFT | Range)
-Values below serve as add-ons to the weapon's base stats, apart from range.
-"S" or "D" refers to your strength or dexterity modifier.
-"S|D" means to use either strength or dexterity modifier, whichever is higher.
-"S|D" is always used as an enclosed term, meaning terms like "S|D+1" refers to "(S|D)+1" and not "S|(D+1)".
-+0 means no bonuses or maluses. =x means the value is set to x.
-"|" is used to denote "or", "/" is used to denote divide.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-This is your default <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
-(=0 | =0 | =0 | =0 | 2m)
-Regular action.
-<br>Allows you to use <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a> until your next turn.
-<br>Does not count as an <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attack</a>.
-(+0 | +0 | +0 | +0 | finishes at 2m)
-Regular action + movement speed.
-<br>See <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Charging" data-href="Melee Attacks#Charging" href="rules/melee-attacks.html#Charging" class="internal-link" target="_self" rel="noopener nofollow">charging rules</a> for more details.
-(+0 | x1/2 | x1/2 | x1/2 | 1m)
-Regular action.
-Awkwardly smack a target too close with the shaft of the halberd.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-<br>Hook your halberd axe head around the target and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them 1m.
-The target must still be within your optimal range at the end of the movement.
-<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
-(+0 | +0 | +0 | +0 | 1-2m)
-Regular action.
-<br>Place your spearhead on the enemy and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them back 1m.
-<br>You(if moving) and the target do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
-If used on an enemy at 2m, you move forward 1m with them.
-(+0 | +0 | +0 | +0 | 2m)
-Regular action.
-<br>Hook your axe around a target 2m away and <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">move</a> them 1m closer. You move 1m back with them.
-<br>Enemies moved this way do not trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Opportunity Attacks" data-href="Melee Attacks#Opportunity Attacks" href="rules/melee-attacks.html#Opportunity Attacks" class="internal-link" target="_self" rel="noopener nofollow">opportunity attacks</a>, but can trigger <a data-tooltip-position="top" aria-label="Melee Attacks &gt; Zoning Attacks" data-href="Melee Attacks#Zoning Attacks" href="rules/melee-attacks.html#Zoning Attacks" class="internal-link" target="_self" rel="noopener nofollow">zoning attacks</a>.
-(+S | x1/2 | x1/2 | x1/2 | 2m)
-Regular action.
-<br>Inflicts <a data-tooltip-position="top" aria-label="Statuses &gt; Pinned" data-href="Statuses#Pinned" href="rules/statuses.html#Pinned" class="internal-link" target="_self" rel="noopener nofollow">pinned</a>(1).
-<br>Combo starter, slash your target's weapon arm, setting them up for <a data-href="#...Circular Fall" href="items-&amp;-crafting/weapons/melee/halberds.html#...Circular_Fall_0" class="internal-link" target="_self" rel="noopener nofollow">...Circular Fall</a>.
-<br>Combo is broken if your target moves or you are <a data-tooltip-position="top" aria-label="Statuses &gt; Move" data-href="Statuses#Move" href="rules/statuses.html#Move" class="internal-link" target="_self" rel="noopener nofollow">moved</a>/disabled.
-(+S | x2 | x2 | x2 | 2m)
-Regular action.
-<br>Combo finisher, after <a data-href="#Batter..." href="items-&amp;-crafting/weapons/melee/halberds.html#Batter..._0" class="internal-link" target="_self" rel="noopener nofollow">Batter...</a>, swing your halberd in a large circular motion, smashing into the enemy's neck.
-]]></description><link>items-&amp;-crafting/weapons/melee/halberds.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Halberds.md</guid><pubDate>Fri, 21 Aug 2026 08:25:40 GMT</pubDate></item><item><title><![CDATA[Medium Shields]]></title><description><![CDATA[A medium shield is large enough to cover most of your torso whilst still being relatively light. Unskilled users can easily benefit due to the relative simplicity of the shield.Hand requirement: Off handed
+]]></description><link>items-&amp;-crafting/weapons/melee/numerian-blades.html</link><guid isPermaLink="false">Items &amp; Crafting/Weapons/Melee/Numerian Blades.md</guid><pubDate>Fri, 21 Aug 2026 09:23:53 GMT</pubDate></item><item><title><![CDATA[Medium Shields]]></title><description><![CDATA[A medium shield is large enough to cover most of your torso whilst still being relatively light. Unskilled users can easily benefit due to the relative simplicity of the shield.Hand requirement: Off handed
 Unique traits: Tier 1 proficiency granted for free.Hit chance: Strength | Dexterity + Proficiency
 Damage: Strength | Dexterity + 1d4
 Penetration: 0
