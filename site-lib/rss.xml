@@ -1,4 +1,292 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shadow of the Titan wiki]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Shadow of the Titan wiki</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 01 Nov 2026 05:10:40 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 01 Nov 2026 05:08:27 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Tailoring]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Shadow of the Titan wiki]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Shadow of the Titan wiki</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 01 Nov 2026 05:46:26 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 01 Nov 2026 05:44:30 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Armour Rules]]></title><description><![CDATA[You can equip:
+1 helmet.
+Up to 3 layers of body armour.
+1 cosmetic clothing
+1 cosmetic cloak
+1 cosmetic hat
+Body armour is separated into 3 layers:
+Layer 1: Closest layer to your body, usually used for padding like arming jackets.
+Layer 2: Usually used for mail armour.
+Layer 3: Furthest layer from your body, usually used for plate armour.
+You can equip up to one of each type. Your head and body layers are different. Helmets don't use the layer system, you simply equip 1 helmet.
+Layer 1 is required in order to wear layers 2 and 3.You have a clothing slot, a cloak slot and a hat slot.
+Clothing is equipped under your armour.
+Cloaks are equipped over your armour.
+Hats are equipped over your helmet.
+These provide no protection, but can influence roleplay and skill checks.Certain types of armour need to be properly tailored to the user, or they'll suffer some penalty.Amour needs to be fitted to a person's body. Adjustment score represents how hard it is for the armour to be altered for use by someone else. Adjusting armour will require <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Smithing Tools" data-href="General Recipes and Crafting Tools#Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">smithing tools</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Tailoring Tools" data-href="General Recipes and Crafting Tools#Tailoring Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Tailoring Tools" class="internal-link" target="_self" rel="noopener nofollow">tailoring tools</a>, depending on material type. See <a data-tooltip-position="top" aria-label="Armour Smithing &gt; Adjusting Armour" data-href="Armour Smithing#Adjusting Armour" href="items-&amp;-crafting/skilled-crafting/armour-smithing.html#Adjusting Armour" class="internal-link" target="_self" rel="noopener nofollow">armour smithing</a> for more detailed information.
+Tier 1: Can just be used as is.
+Tier 2: Requires a quick adjustment during short rest.
+Tier 3: Requires adjustment during long rest by someone with significant experience in smithing.
+Tier 4: Requires dedicated equipment and an expert to drastically alter the piece.
+Tier 5+: Requires tier 4 prerequisites + increasing material costs.
+Adjusting crocodilian armour to the other races and vice versa will increase the adjustment score by 2.Wearing armour not suited for you imposes certain downsides, depending on the armour's adjustment score:
+Tier 1: No effect. Tier 2: -1 Hit chance to all attacks.
+-1 Melee and ranged defence.
+-1 to grappling saving throws. Tier 3: -1 Hit chance to all attacks.
+-2 Melee and ranged defence.
+-2 to grappling saving throws. Tier 4+: Suffer disadvantage on all attacks and grappling saves.
+Enemies get advantage on you with all attacks.
+<br>Suffer the effects of a <a data-tooltip-position="top" aria-label="Statuses &gt; Broken Ankle" data-href="Statuses#Broken Ankle" href="rules/statuses.html#Broken Ankle" class="internal-link" target="_self" rel="noopener nofollow">broken ankle</a> whilst wearing the armour. You can get a town smith to refit a piece of armour for you, depending on the adjustment score:
+Tier 2: 25% of armour's price.
+Tier 3: 40% of armour's price.
+Tier 4+: 50% of armour's price
+Note that the smith will need to be of sufficient skill to do this. A human smith won't know how to work faery metal, for instance.
+<br>See <a data-href="Armour Smithing" href="items-&amp;-crafting/skilled-crafting/armour-smithing.html" class="internal-link" target="_self" rel="noopener nofollow">Armour Smithing</a> for more information on refitting armour yourself.]]></description><link>items-&amp;-crafting/armour/armour-rules.html</link><guid isPermaLink="false">Items &amp; Crafting/Armour/Armour Rules.md</guid><pubDate>Sun, 01 Nov 2026 05:34:19 GMT</pubDate></item><item><title><![CDATA[Armour Smithing]]></title><description><![CDATA[
+Choose which type of armour piece you want to smith below.
+Go down the list of customisations for that piece. You must choose 1 and only 1 option for each customisation.
+Add the modifiers from the customisations to the base stats.
+Spend resources to smith the armour during rests.
+To do anything listed below, you require the smithing(armour) skill, alongside a <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Smithing Tools" data-href="General Recipes and Crafting Tools#Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">set of smithing tools</a>. Some customisations may also require a pixie with certain masteries alongside the smithing tools and skill, or pixie smithing tools alongside the skill.
+A piece's armour value cannot fall below 0.
+A piece's adjustment score cannot fall below 0.
+Percentage modifiers are additive. (i.e. two +50% modifiers stack to be +100%)
+Weight cannot be reduced below 1kg.
+Round up all calculations to the next whole number, except weight, which is rounded up to the next 0.25kg interval.
+Each armour piece's final cost is derived as such:
+(Total Cost of Material) x (Time-units taken x 0.20) x (Customisation Modifier)You can smelt down or scrap an armour piece to get back 50% of the materials used to make them. The time-unit cost and skill requirement to scrap an armour part is equal to the tier of the material the armour is made of. (e.g. A piece made of tier 1 materials needs skill 1 in armour smithing and 1 time-unit to scrap.)<br>Armour can be readjusted to fit another person to avoid incurring <a data-tooltip-position="top" aria-label="Armour Rules &gt; Fitting restrictions" data-href="Armour Rules#Fitting restrictions" href="items-&amp;-crafting/armour/armour-rules.html#Fitting restrictions" class="internal-link" target="_self" rel="noopener nofollow">fitting penalties</a>.If not otherwise stated, the requirements is as such:
+1 Adjustment Score: no skill needed, no smithing kit needed, no time needed.
+2 Adjustment Score: Level 1 skill, smithing tools required, 2 time-units.
+3 Adjustment Score: Level 2 skill, smithing tools required, 3 time-units.
+4 Adjustment Score: Level 3 skill, smithing tools required, 4 time-units.
+5+ Adjustment Score: Level 3 skill, smithing tools required +1 material needed for every level above 4.
+4 + (1 time-unit needed for every level above 4). Repairing a damaged piece of armour takes half the resources and time it took to make it. The same skill and tool requirements apply.For each level of armour smithing above 3, the time-unit cost to make a piece of armour is reduced by 1. This time-cost reduction is not used in calculating the price of an armour piece.Armour: 0
+Adjustment Score: 2
+Weight: 2kg
+Material Cost: 4 fabric units
+Craft Time: 4 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Fabric" data-href="Materials#Medium Grade Fabric" href="items-&amp;-crafting/materials.html#Medium Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Fabric</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Fabric" data-href="Materials#Low Grade Fabric" href="items-&amp;-crafting/materials.html#Low Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Fabric</a> (Skill 1) +1kg weight.
+-1 adjustment score.
+-50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Fabric" data-href="Materials#High Grade Fabric" href="items-&amp;-crafting/materials.html#High Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">High Grade Fabric</a> (Skill 3) -1kg weight.
++1 adjustment score.
++100% time-unit cost. Standard (Skill 1) Standard weave, no effects. Silent Weave (Skill 2) +2 to stealth.
++1 adjustment score.
++50% time-unit cost. Harness Weave (Skill 3) <br>+2kg to <a data-tooltip-position="top" aria-label="Character Sheet &amp; Stats &gt; Equipment Load" data-href="Character Sheet &amp; Stats#Equipment Load" href="rules/character-sheet-&amp;-stats.html#Equipment Load" class="internal-link" target="_self" rel="noopener nofollow">equipment load thresholds</a>.
++2 adjustment score.
++50% time-unit cost. Steel-Linen Weave (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
++1 armour.
++1 adjustment score.
++50% time-unit cost. Armour: 2
+Adjustment Score: 2
+Weight: 9kg
+Stealth: Disadvantage
+Material Cost: 8 metal units
+Craft Time: 8 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +3kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
++1 adjustment score.
++50% time-unit cost. Riveted (Skill 2) Standard material, no effects. Butted (Skill 1) -1 armour.
+-1 adjustment score.
+-25% time-unit cost.
+-50% armour piece monetary value. Welded (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
++50% material cost.
++1 armour.
++1 adjustment score.
++50% time-unit cost. Standard (Skill 1) Standard circular rings, no effect. Large (Skill 1) -1 armour.
+-3kg weight.
+-25% time-unit cost. Small (Skill 3) +1 armour.
++3kg weight.
++50% time-unit cost. Armour: 3
+Adjustment Score: 2
+Weight: 15kg
+Stealth: Disadvantage
+Material Cost: 10 metal units
+Craft Time: 10 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +3kg weight.
+-1 adjustment score.
+-20% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
++1 adjustment score.
++40% time-unit cost. Riveted (Skill 2) Standard material, no effects. Butted (Skill 1) -1 armour.
+-1 adjustment score.
+-20% time-unit cost.
+-50% armour piece monetary value. Welded (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
++50% material cost.
++1 armour.
++1 adjustment score.
++40% time-unit cost. Standard (Skill 1) Standard circular rings, no effect. Large (Skill 1) -1 armour.
+-3kg weight.
+-20% time-unit cost. Small (Skill 3) +1 armour.
++3kg weight.
++40% time-unit cost. Armour: 1
+Adjustment Score: 1
+Weight: 4kg
+Material Cost: 8 fabric units
+Craft Time: 4 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Fabric" data-href="Materials#Medium Grade Fabric" href="items-&amp;-crafting/materials.html#Medium Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Fabric</a> (Skill 1) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Fabric" data-href="Materials#Low Grade Fabric" href="items-&amp;-crafting/materials.html#Low Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Fabric</a> (Skill 1) +1kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Fabric" data-href="Materials#High Grade Fabric" href="items-&amp;-crafting/materials.html#High Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">High Grade Fabric</a> (Skill 2) -1kg weight.
++1 adjustment score.
++50% time-unit cost. Standard (Skill 1) Standard pattern, no effects. Diamond (Skill 1) -1 melee defence.
+-1kg weight. Composite Pattern (Skill 2) -1kg weight
++50% time-unit cost. Standard (Skill 1) Standard layers, no effects. Extra Layers (Skill 2) +50% material cost.
++1 armour.
++50% time-unit cost.
++4kg weight. Extra-Extra Layers (Skill 2) +100% material cost.
++2 armour.
+-2 melee and ranged defences.
++100% time-unit cost.
++8kg weight. Armour: 2
+Adjustment Score: 3
+Weight: 6kg
+Stealth: Disadvantage
+Material Cost: 8 metal/leather units
+Craft Time: 8 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +2kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -2kg weight.
++1 adjustment score.
++50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Leather" data-href="Materials#Low Grade Leather" href="items-&amp;-crafting/materials.html#Low Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Leather</a> (Skill 1) -1 armour.
+-1 adjustment score.
+No disadvantage on stealth.
+-2kg weight.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Leather" data-href="Materials#Medium Grade Leather" href="items-&amp;-crafting/materials.html#Medium Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Leather</a> (Skill 2) -1 armour.
+-1 adjustment score.
+No disadvantage on stealth.
+-3kg weight. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Leather" data-href="Materials#High Grade Leather" href="items-&amp;-crafting/materials.html#High Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">High Grade Leather</a> (Skill 3) -1 armour.
+-1 adjustment score.
+No disadvantage on stealth.
+-4kg weight.
++50% time-unit cost. Standard (Skill 1) Standard coverage, no effect. Frontal Only (Skill 1) Armour bonus is only applied when not flanked.
+-1 adjustment score.
+-50% material cost.
+-2kg weight.
+-50% time-unit cost. Extended Coverage (Skill 2) +1 armour.
++3kg weight.
++50% time-unit cost. Standard (Skill 1) Standard lacing, no effect. Tightly Woven (Skill 2) -1kg weight.
+-2 melee defence. Reinforced Stitches (Skill 3) -1kg weight.
++100% time-unit cost. Standard (Skill 1) Standard shape, no effect. Barbed (Skill 2) <br>+2 to your saving throws against being <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
+-1 armour.
++25% time-unit cost. Mountain Pattern (Skill 3) +1 armour.
++100% time-unit cost. Armour: 4
+Adjustment Score: 4
+Weight: 15kg
+Stealth: Disadvantage
+Material Cost: 12 metal units
+Craft Time: 16 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +3kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
++1 adjustment score.
++50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Leather" data-href="Materials#Low Grade Leather" href="items-&amp;-crafting/materials.html#Low Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Leather</a> (Skill 1) -2 armour.
+-1 adjustment score.
+No disadvantage on stealth.
+-8kg weight.
+-50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Leather" data-href="Materials#Medium Grade Leather" href="items-&amp;-crafting/materials.html#Medium Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Leather</a> (Skill 2) -2 armour.
+-1 adjustment score.
+No disadvantage on stealth.
+-9kg weight.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Leather" data-href="Materials#High Grade Leather" href="items-&amp;-crafting/materials.html#High Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">High Grade Leather</a> (Skill 3) -2 armour.
+-1 adjustment score.
+No disadvantage on stealth.
+-10kg weight. Standard (Skill 1) Standard lacing, no effect. Tightly Woven (Skill 2) -2kg weight.
+-2 melee defence. Reinforced Stitches (Skill 3) -2kg weight.
++100% time-unit cost. Standard (Skill 1) Standard shape, no effect. Barbed (Skill 2) <br>+2 to your saving throws against being <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
+-1 armour.
++25% time-unit cost. Mountain Pattern (Skill 3) +1 armour.
++100% time-unit cost. Armour: 3
+Adjustment Score: 4
+Weight: 9kg
+Material Cost: 10 metal units
+Craft Time: 16 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +2kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -2kg weight.
++1 adjustment score.
++50% time-unit cost. Composite Armour (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+<br>Requires an equal split of <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> and <a data-tooltip-position="top" aria-label="Materials &gt; Nebulan Starshard" data-href="Materials#Nebulan Starshard" href="items-&amp;-crafting/materials.html#Nebulan Starshard" class="internal-link" target="_self" rel="noopener nofollow">Nebulan Starshard</a>. If the material cost is 1, then require 1 of each material.
+<br>If the material cost is odd, then split the cost with 1 more <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a>. +5 temporary armour. This value degrades by 1 each time you are hit. Temporary armour acts on both regular damage and blunt force trauma.
+Temporary armour can be restored by spending time-units equal to the number of temporary armour you want to restore.
+<br>No material cost is needed to restore temporary armour, but a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>. is still needed. +100% time-unit cost. Standard (Skill 1) Standard coverage, no effect. Frontal Only (Skill 1) Armour bonus is only applied when not flanked.
+-30% material cost.
+-3kg weight.
+-25% time-unit cost. Extended Coverage (Skill 2) +1 armour.
++3kg weight.
++50% time-unit cost. Standard (Skill 2) Standard coverage, no effect. Brigandine (Skill 1) -20% material cost.
+-1 adjustment score.
++2kg weight.
+-25% time-unit cost. Fluted Plate (Skill 3) -1kg weight.
++25% time-unit cost. Standard (Skill 1) Standard polish, no effect. Jagged (Skill 2) <br>+2 to your saving throws against <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
+-1 armour.
++25% time-unit cost. Hazard-Retardant (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+Negative statuses lose 1 stack when inflicted on you. The stacks cannot be reduced below 1.
++50% time-unit cost. Armour: 5
+Adjustment Score: 6
+Weight: 15kg
+Stealth: Disadvantage
+Material Cost: 20 metal units
+Craft Time: 20 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 3) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 2) +3kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
++1 adjustment score.
++50% time-unit cost. Composite Armour (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+<br>Requires an equal split of <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> and <a data-tooltip-position="top" aria-label="Materials &gt; Nebulan Starshard" data-href="Materials#Nebulan Starshard" href="items-&amp;-crafting/materials.html#Nebulan Starshard" class="internal-link" target="_self" rel="noopener nofollow">Nebulan Starshard</a>. If the material cost is 1, then require 1 of each material.
+<br>If the material cost is odd, then split the cost with 1 more <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a>. +5 temporary armour. This value degrades by 1 each time you are hit. Temporary armour acts on both regular damage and blunt force trauma.
+Temporary armour can be restored by spending time-units equal to the number of temporary armour you want to restore.
+<br>No material cost is needed to restore temporary armour, but a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>. is still needed. +100% time-unit cost. Standard (Skill 2) Standard coverage, no effect. Brigandine (Skill 1) -25% material cost.
+-1 adjustment score.
++3kg weight.
+-25% time-unit cost. Fluted Plate (Skill 3) -1kg weight.
++25% time-unit cost. Dancing Plates of Numeria (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+-1 armour.
+-4kg weight.
++50% time-unit cost. Standard (Skill 1) Standard polish, no effect. Darkened (Skill 2) Remove disadvantage on stealth.
++25% time-unit cost. Jagged (Skill 2) <br>+2 to your saving throws against <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
+-1 armour.
++25% time-unit cost. Hazard-Retardant (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+Negative statuses lose 1 stack when inflicted on you. The stacks cannot be reduced below 1.
++50% time-unit cost. Armour: 0
+Adjustment Score: 2
+Weight: 1kg
+Material Cost: 4 leather units
+Craft Time: 4 time-units<br>
+Traits: Grants +1 armour if under <a data-tooltip-position="top" aria-label="Character Sheet &amp; Stats &gt; Equipment Load" data-href="Character Sheet &amp; Stats#Equipment Load" href="rules/character-sheet-&amp;-stats.html#Equipment Load" class="internal-link" target="_self" rel="noopener nofollow">light load</a>.
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Leather" data-href="Materials#Medium Grade Leather" href="items-&amp;-crafting/materials.html#Medium Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Leather</a> (Skill 2) Standard material, no effect. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Leather" data-href="Materials#Low Grade Leather" href="items-&amp;-crafting/materials.html#Low Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Leather</a> (Skill 1) +0.5kg weight.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Leather" data-href="Materials#High Grade Leather" href="items-&amp;-crafting/materials.html#High Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">High Grade Leather</a> (Skill 3) +1 temporary armour. This value degrades by 1 each time you are hit. Temporary armour acts on both regular damage and blunt force trauma.
+Temporary armour can be restored by spending time-units equal to the number of temporary armour you want to restore.
+No material cost is needed to restore temporary armour. +50% time-unit cost. No filter (Skill 1) Standard, no effect. Makeshift filter (Skill 1) -45 degrees to your view cone.
+<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 2 turns in combat or high intensity action.
+Bonus/Regular action to change filters. +2kg weight.
++25% time-unit cost. Standard filter (Skill 2) <br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 3 turns in combat or high intensity action.
+Bonus/Regular action to change filters. +1 adjustment score.
++1kg weight.
++25% time-unit cost. Pixie-made filter (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 4 turns in combat or high intensity action.
+Bonus/Regular action to change filters. +2 adjustment score.
++0.5kg weight
++50% time-unit cost. Armour: 1
+Adjustment Score: 3
+Weight: 2kg
+Material Cost: 4 metal units
+Craft Time: 8 time-units
+<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +1kg weight.
+-1 adjustment score.
+-25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -0.5kg weight.
++1 adjustment score.
++50% time-unit cost. Standard (Skill 1) No extended face protection, no effects. Lamellar/Mail Face Protection (Skill 2) +1 armour.
++2kg weight.
++50% material cost.
++50% time-unit cost. Full Visor (Skill 3) Gives the option to raise/lower your visor: Lowered visor grants +2 armour, but -45 degrees to your view cone.
+Bonus action to raise/lower visor. +1 adjustment score.
++1kg weight.
++50% material cost.
++100% time-unit cost. Plated Mask (Skill 3) Provides no tactical advantage over a visor, but looks cool as fuck.
+Gives the option to raise/lower your mask: Lowered mask grants +2 armour, but -45 degrees to your view cone.
+Bonus action to raise/lower visor. +1 adjustment score.
++1kg weight.
++50% helmet monetary value.
++50% material cost.
++150% time-unit cost. No filter (Skill 1) Standard, no effect. Makeshift filter (Skill 1) -45 degrees to your view cone.
+<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 2 turns in combat or high intensity action.
+Bonus/Regular action to change filters. +2kg weight.
++25% time-unit cost. Standard filter (Skill 2) <br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 3 turns in combat or high intensity action.
+Bonus/Regular action to change filters. +1 adjustment score.
++1kg weight.
++25% time-unit cost. Pixie-made filter (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
+<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 4 turns in combat or high intensity action.
+Bonus/Regular action to change filters. +2 adjustment score.
++0.5kg weight
++50% time-unit cost. I high-key cannot be bothered to introduce entire customisation trees for every animal companion, but if you bother me enough about it I'll maybe consider it. For animal armour just follow the crafting material and time unit requirements on their respective equipment pages. Repairing/adjusting animal armour is the same as normal armour.]]></description><link>items-&amp;-crafting/skilled-crafting/armour-smithing.html</link><guid isPermaLink="false">Items &amp; Crafting/Skilled Crafting/Armour Smithing.md</guid><pubDate>Sun, 01 Nov 2026 05:33:00 GMT</pubDate></item><item><title><![CDATA[Tailoring]]></title><description><![CDATA[
 Choose which type of clothing you want to create below.
 Go down the list of customisations for that piece. You must choose 1 and only 1 option for each customisation.
 Add the modifiers from the customisations to the base stats.
@@ -4094,293 +4382,7 @@ Free tier 1 proficiencies for the following weapons: <br><a data-href="One-hande
 <br><a data-href="Two-handed Axes" href="items-&amp;-crafting/weapons/melee/two-handed-axes.html" class="internal-link" target="_self" rel="noopener nofollow">Two-handed Axes</a> <br>Crocodilians get bonuses to their <a data-tooltip-position="top" aria-label="Martial Arts &gt; Punch" data-href="Martial Arts#Punch" href="items-&amp;-crafting/weapons/melee/martial-arts.html#Punch" class="internal-link" target="_self" rel="noopener nofollow">punches</a>, <a data-tooltip-position="top" aria-label="Martial Arts &gt; Bite" data-href="Martial Arts#Bite" href="items-&amp;-crafting/weapons/melee/martial-arts.html#Bite" class="internal-link" target="_self" rel="noopener nofollow">bites</a>, and have access to the <a data-tooltip-position="top" aria-label="Martial Arts &gt; Crocodilian Death Roll" data-href="Martial Arts#Crocodilian Death Roll" href="items-&amp;-crafting/weapons/melee/martial-arts.html#Crocodilian Death Roll" class="internal-link" target="_self" rel="noopener nofollow">crocodilian death roll</a> at tier 3 <a data-href="Martial Arts" href="items-&amp;-crafting/weapons/melee/martial-arts.html" class="internal-link" target="_self" rel="noopener nofollow">Martial Arts</a>. <br><a data-tooltip-position="top" aria-label="Traits &gt; Cold Blooded" data-href="Traits#Cold Blooded" href="rules/traits.html#Cold Blooded" class="internal-link" target="_self" rel="noopener nofollow">Cold Blooded</a> Intimidation: 1
 Fishing: 1
 Swimming: 1 Literacy Speaking Numerian Tongue: 1
-Crocodilian Tongue: 2 ]]></description><link>races/playable/crocodilians.html</link><guid isPermaLink="false">Races/Playable/Crocodilians.md</guid><pubDate>Fri, 21 Aug 2026 01:50:01 GMT</pubDate></item><item><title><![CDATA[Armour Smithing]]></title><description><![CDATA[
-Choose which type of armour piece you want to smith below.
-Go down the list of customisations for that piece. You must choose 1 and only 1 option for each customisation.
-Add the modifiers from the customisations to the base stats.
-Spend resources to smith the armour during rests.
-To do anything listed below, you require the smithing(armour) skill, alongside a <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Smithing Tools" data-href="General Recipes and Crafting Tools#Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">set of smithing tools</a>. Some customisations may also require a pixie with certain masteries alongside the smithing tools and skill, or pixie smithing tools alongside the skill.
-A piece's armour value cannot fall below 0.
-A piece's adjustment score cannot fall below 0.
-Percentage modifiers are additive. (i.e. two +50% modifiers stack to be +100%)
-Weight cannot be reduced below 1kg.
-Round up all calculations to the next whole number, except weight, which is rounded up to the next 0.25kg interval.
-Each armour piece's final cost is derived as such:
-(Total Cost of Material) x (Time-units taken x 0.20) x (Customisation Modifier)You can smelt down or scrap an armour piece to get back 50% of the materials used to make them. The time-unit cost and skill requirement to scrap an armour part is equal to the tier of the material the armour is made of. (e.g. A piece made of tier 1 materials needs skill 1 in armour smithing and 1 time-unit to scrap.)<br>Armour can be readjusted to fit another person to avoid incurring <a data-tooltip-position="top" aria-label="Armour Rules &gt; Fitting restrictions" data-href="Armour Rules#Fitting restrictions" href="items-&amp;-crafting/armour/armour-rules.html#Fitting restrictions" class="internal-link" target="_self" rel="noopener nofollow">fitting penalties</a>. You will need the relevant materials and <a data-tooltip-position="top" aria-label="Resting and Other Activities &gt; Time-units" data-href="Resting and Other Activities#Time-units" href="rules/resting-and-other-activities.html#Time-units" class="internal-link" target="_self" rel="noopener nofollow">time units</a> equal to the armour's adjustment score.If not otherwise stated, the requirements is as such:
-1 Adjustment Score: no skill needed, no material needed, no smithing kit needed.
-2 Adjustment Score: Level 1 skill + 2 material units.
-3 Adjustment Score: Level 2 skill + 3 material units.
-4+ Adjustment Score: Level 3 skill + 4 material units.
-Repairing a damaged piece of armour takes half the resources and time it took to make it. The same skill and tool requirements apply.For each level of armour smithing above 3, the time-unit cost to make a piece of armour is reduced by 1. This time-cost reduction is not used in calculating the price of an armour piece.Armour: 0
-Adjustment Score: 2
-Weight: 2kg
-Material Cost: 4 fabric units
-Craft Time: 4 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Fabric" data-href="Materials#Medium Grade Fabric" href="items-&amp;-crafting/materials.html#Medium Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Fabric</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Fabric" data-href="Materials#Low Grade Fabric" href="items-&amp;-crafting/materials.html#Low Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Fabric</a> (Skill 1) +1kg weight.
--1 adjustment score.
--50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Fabric" data-href="Materials#High Grade Fabric" href="items-&amp;-crafting/materials.html#High Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">High Grade Fabric</a> (Skill 3) -1kg weight.
-+1 adjustment score.
-+100% time-unit cost. Standard (Skill 1) Standard weave, no effects. Silent Weave (Skill 2) +2 to stealth.
-+1 adjustment score.
-+50% time-unit cost. Harness Weave (Skill 3) <br>+2kg to <a data-tooltip-position="top" aria-label="Character Sheet &amp; Stats &gt; Equipment Load" data-href="Character Sheet &amp; Stats#Equipment Load" href="rules/character-sheet-&amp;-stats.html#Equipment Load" class="internal-link" target="_self" rel="noopener nofollow">equipment load thresholds</a>.
-+2 adjustment score.
-+50% time-unit cost. Steel-Linen Weave (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-+1 armour.
-+1 adjustment score.
-+50% time-unit cost. Armour: 2
-Adjustment Score: 2
-Weight: 9kg
-Stealth: Disadvantage
-Material Cost: 8 metal units
-Craft Time: 8 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +3kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
-+1 adjustment score.
-+50% time-unit cost. Riveted (Skill 2) Standard material, no effects. Butted (Skill 1) -1 armour.
--1 adjustment score.
--25% time-unit cost.
--50% armour piece monetary value. Welded (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-+50% material cost.
-+1 armour.
-+1 adjustment score.
-+50% time-unit cost. Standard (Skill 1) Standard circular rings, no effect. Large (Skill 1) -1 armour.
--3kg weight.
--25% time-unit cost. Small (Skill 3) +1 armour.
-+3kg weight.
-+50% time-unit cost. Armour: 3
-Adjustment Score: 2
-Weight: 15kg
-Stealth: Disadvantage
-Material Cost: 10 metal units
-Craft Time: 10 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +3kg weight.
--1 adjustment score.
--20% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
-+1 adjustment score.
-+40% time-unit cost. Riveted (Skill 2) Standard material, no effects. Butted (Skill 1) -1 armour.
--1 adjustment score.
--20% time-unit cost.
--50% armour piece monetary value. Welded (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-+50% material cost.
-+1 armour.
-+1 adjustment score.
-+40% time-unit cost. Standard (Skill 1) Standard circular rings, no effect. Large (Skill 1) -1 armour.
--3kg weight.
--20% time-unit cost. Small (Skill 3) +1 armour.
-+3kg weight.
-+40% time-unit cost. Armour: 1
-Adjustment Score: 1
-Weight: 4kg
-Material Cost: 8 fabric units
-Craft Time: 4 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Fabric" data-href="Materials#Medium Grade Fabric" href="items-&amp;-crafting/materials.html#Medium Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Fabric</a> (Skill 1) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Fabric" data-href="Materials#Low Grade Fabric" href="items-&amp;-crafting/materials.html#Low Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Fabric</a> (Skill 1) +1kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Fabric" data-href="Materials#High Grade Fabric" href="items-&amp;-crafting/materials.html#High Grade Fabric" class="internal-link" target="_self" rel="noopener nofollow">High Grade Fabric</a> (Skill 2) -1kg weight.
-+1 adjustment score.
-+50% time-unit cost. Standard (Skill 1) Standard pattern, no effects. Diamond (Skill 1) -1 melee defence.
--1kg weight. Composite Pattern (Skill 2) -1kg weight
-+50% time-unit cost. Standard (Skill 1) Standard layers, no effects. Extra Layers (Skill 2) +50% material cost.
-+1 armour.
-+50% time-unit cost.
-+4kg weight. Extra-Extra Layers (Skill 2) +100% material cost.
-+2 armour.
--2 melee and ranged defences.
-+100% time-unit cost.
-+8kg weight. Armour: 2
-Adjustment Score: 3
-Weight: 6kg
-Stealth: Disadvantage
-Material Cost: 8 metal/leather units
-Craft Time: 8 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +2kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -2kg weight.
-+1 adjustment score.
-+50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Leather" data-href="Materials#Low Grade Leather" href="items-&amp;-crafting/materials.html#Low Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Leather</a> (Skill 1) -1 armour.
--1 adjustment score.
-No disadvantage on stealth.
--2kg weight.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Leather" data-href="Materials#Medium Grade Leather" href="items-&amp;-crafting/materials.html#Medium Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Leather</a> (Skill 2) -1 armour.
--1 adjustment score.
-No disadvantage on stealth.
--3kg weight. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Leather" data-href="Materials#High Grade Leather" href="items-&amp;-crafting/materials.html#High Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">High Grade Leather</a> (Skill 3) -1 armour.
--1 adjustment score.
-No disadvantage on stealth.
--4kg weight.
-+50% time-unit cost. Standard (Skill 1) Standard coverage, no effect. Frontal Only (Skill 1) Armour bonus is only applied when not flanked.
--1 adjustment score.
--50% material cost.
--2kg weight.
--50% time-unit cost. Extended Coverage (Skill 2) +1 armour.
-+3kg weight.
-+50% time-unit cost. Standard (Skill 1) Standard lacing, no effect. Tightly Woven (Skill 2) -1kg weight.
--2 melee defence. Reinforced Stitches (Skill 3) -1kg weight.
-+100% time-unit cost. Standard (Skill 1) Standard shape, no effect. Barbed (Skill 2) <br>+2 to your saving throws against being <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
--1 armour.
-+25% time-unit cost. Mountain Pattern (Skill 3) +1 armour.
-+100% time-unit cost. Armour: 4
-Adjustment Score: 4
-Weight: 15kg
-Stealth: Disadvantage
-Material Cost: 12 metal units
-Craft Time: 16 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +3kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
-+1 adjustment score.
-+50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Leather" data-href="Materials#Low Grade Leather" href="items-&amp;-crafting/materials.html#Low Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Leather</a> (Skill 1) -2 armour.
--1 adjustment score.
-No disadvantage on stealth.
--8kg weight.
--50% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Leather" data-href="Materials#Medium Grade Leather" href="items-&amp;-crafting/materials.html#Medium Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Leather</a> (Skill 2) -2 armour.
--1 adjustment score.
-No disadvantage on stealth.
--9kg weight.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Leather" data-href="Materials#High Grade Leather" href="items-&amp;-crafting/materials.html#High Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">High Grade Leather</a> (Skill 3) -2 armour.
--1 adjustment score.
-No disadvantage on stealth.
--10kg weight. Standard (Skill 1) Standard lacing, no effect. Tightly Woven (Skill 2) -2kg weight.
--2 melee defence. Reinforced Stitches (Skill 3) -2kg weight.
-+100% time-unit cost. Standard (Skill 1) Standard shape, no effect. Barbed (Skill 2) <br>+2 to your saving throws against being <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
--1 armour.
-+25% time-unit cost. Mountain Pattern (Skill 3) +1 armour.
-+100% time-unit cost. Armour: 3
-Adjustment Score: 4
-Weight: 9kg
-Material Cost: 10 metal units
-Craft Time: 16 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +2kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -2kg weight.
-+1 adjustment score.
-+50% time-unit cost. Composite Armour (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-<br>Requires an equal split of <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> and <a data-tooltip-position="top" aria-label="Materials &gt; Nebulan Starshard" data-href="Materials#Nebulan Starshard" href="items-&amp;-crafting/materials.html#Nebulan Starshard" class="internal-link" target="_self" rel="noopener nofollow">Nebulan Starshard</a>. If the material cost is 1, then require 1 of each material.
-<br>If the material cost is odd, then split the cost with 1 more <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a>. +5 temporary armour. This value degrades by 1 each time you are hit. Temporary armour acts on both regular damage and blunt force trauma.
-Temporary armour can be restored by spending time-units equal to the number of temporary armour you want to restore.
-<br>No material cost is needed to restore temporary armour, but a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>. is still needed. +100% time-unit cost. Standard (Skill 1) Standard coverage, no effect. Frontal Only (Skill 1) Armour bonus is only applied when not flanked.
--30% material cost.
--3kg weight.
--25% time-unit cost. Extended Coverage (Skill 2) +1 armour.
-+3kg weight.
-+50% time-unit cost. Standard (Skill 2) Standard coverage, no effect. Brigandine (Skill 1) -20% material cost.
--1 adjustment score.
-+2kg weight.
--25% time-unit cost. Fluted Plate (Skill 3) -1kg weight.
-+25% time-unit cost. Standard (Skill 1) Standard polish, no effect. Jagged (Skill 2) <br>+2 to your saving throws against <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
--1 armour.
-+25% time-unit cost. Hazard-Retardant (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-Negative statuses lose 1 stack when inflicted on you. The stacks cannot be reduced below 1.
-+50% time-unit cost. Armour: 5
-Adjustment Score: 6
-Weight: 15kg
-Stealth: Disadvantage
-Material Cost: 20 metal units
-Craft Time: 20 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 3) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 2) +3kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -3kg weight.
-+1 adjustment score.
-+50% time-unit cost. Composite Armour (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-<br>Requires an equal split of <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> and <a data-tooltip-position="top" aria-label="Materials &gt; Nebulan Starshard" data-href="Materials#Nebulan Starshard" href="items-&amp;-crafting/materials.html#Nebulan Starshard" class="internal-link" target="_self" rel="noopener nofollow">Nebulan Starshard</a>. If the material cost is 1, then require 1 of each material.
-<br>If the material cost is odd, then split the cost with 1 more <a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a>. +5 temporary armour. This value degrades by 1 each time you are hit. Temporary armour acts on both regular damage and blunt force trauma.
-Temporary armour can be restored by spending time-units equal to the number of temporary armour you want to restore.
-<br>No material cost is needed to restore temporary armour, but a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>. is still needed. +100% time-unit cost. Standard (Skill 2) Standard coverage, no effect. Brigandine (Skill 1) -25% material cost.
--1 adjustment score.
-+3kg weight.
--25% time-unit cost. Fluted Plate (Skill 3) -1kg weight.
-+25% time-unit cost. Dancing Plates of Numeria (Skill 3) <br>Makes the piece pixie-metal-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Metal Mastery" data-href="Pixie Masteries#Metal Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Metal Mastery" class="internal-link" target="_self" rel="noopener nofollow">metal mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
--1 armour.
--4kg weight.
-+50% time-unit cost. Standard (Skill 1) Standard polish, no effect. Darkened (Skill 2) Remove disadvantage on stealth.
-+25% time-unit cost. Jagged (Skill 2) <br>+2 to your saving throws against <a data-tooltip-position="top" aria-label="Statuses &gt; Grappled" data-href="Statuses#Grappled" href="rules/statuses.html#Grappled" class="internal-link" target="_self" rel="noopener nofollow">grappling moves</a>.
--1 armour.
-+25% time-unit cost. Hazard-Retardant (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-Negative statuses lose 1 stack when inflicted on you. The stacks cannot be reduced below 1.
-+50% time-unit cost. Armour: 0
-Adjustment Score: 2
-Weight: 1kg
-Material Cost: 4 leather units
-Craft Time: 4 time-units<br>
-Traits: Grants +1 armour if under <a data-tooltip-position="top" aria-label="Character Sheet &amp; Stats &gt; Equipment Load" data-href="Character Sheet &amp; Stats#Equipment Load" href="rules/character-sheet-&amp;-stats.html#Equipment Load" class="internal-link" target="_self" rel="noopener nofollow">light load</a>.
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Medium Grade Leather" data-href="Materials#Medium Grade Leather" href="items-&amp;-crafting/materials.html#Medium Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Medium Grade Leather</a> (Skill 2) Standard material, no effect. <br><a data-tooltip-position="top" aria-label="Materials &gt; Low Grade Leather" data-href="Materials#Low Grade Leather" href="items-&amp;-crafting/materials.html#Low Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">Low Grade Leather</a> (Skill 1) +0.5kg weight.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; High Grade Leather" data-href="Materials#High Grade Leather" href="items-&amp;-crafting/materials.html#High Grade Leather" class="internal-link" target="_self" rel="noopener nofollow">High Grade Leather</a> (Skill 3) +1 temporary armour. This value degrades by 1 each time you are hit. Temporary armour acts on both regular damage and blunt force trauma.
-Temporary armour can be restored by spending time-units equal to the number of temporary armour you want to restore.
-No material cost is needed to restore temporary armour. +50% time-unit cost. No filter (Skill 1) Standard, no effect. Makeshift filter (Skill 1) -45 degrees to your view cone.
-<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 2 turns in combat or high intensity action.
-Bonus/Regular action to change filters. +2kg weight.
-+25% time-unit cost. Standard filter (Skill 2) <br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 3 turns in combat or high intensity action.
-Bonus/Regular action to change filters. +1 adjustment score.
-+1kg weight.
-+25% time-unit cost. Pixie-made filter (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 4 turns in combat or high intensity action.
-Bonus/Regular action to change filters. +2 adjustment score.
-+0.5kg weight
-+50% time-unit cost. Armour: 1
-Adjustment Score: 3
-Weight: 2kg
-Material Cost: 4 metal units
-Craft Time: 8 time-units
-<br><a data-tooltip-position="top" aria-label="Materials &gt; Steel Bar" data-href="Materials#Steel Bar" href="items-&amp;-crafting/materials.html#Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Steel</a> (Skill 2) Standard material, no effects. <br><a data-tooltip-position="top" aria-label="Materials &gt; Iron Bar" data-href="Materials#Iron Bar" href="items-&amp;-crafting/materials.html#Iron Bar" class="internal-link" target="_self" rel="noopener nofollow">Iron</a> (Skill 1) +1kg weight.
--1 adjustment score.
--25% time-unit cost. <br><a data-tooltip-position="top" aria-label="Materials &gt; Pixie-Forged Steel Bar" data-href="Materials#Pixie-Forged Steel Bar" href="items-&amp;-crafting/materials.html#Pixie-Forged Steel Bar" class="internal-link" target="_self" rel="noopener nofollow">Pixie-forged Steel</a> (Skill 3) -0.5kg weight.
-+1 adjustment score.
-+50% time-unit cost. Standard (Skill 1) No extended face protection, no effects. Lamellar/Mail Face Protection (Skill 2) +1 armour.
-+2kg weight.
-+50% material cost.
-+50% time-unit cost. Full Visor (Skill 3) Gives the option to raise/lower your visor: Lowered visor grants +2 armour, but -45 degrees to your view cone.
-Bonus action to raise/lower visor. +1 adjustment score.
-+1kg weight.
-+50% material cost.
-+100% time-unit cost. Plated Mask (Skill 3) Provides no tactical advantage over a visor, but looks cool as fuck.
-Gives the option to raise/lower your mask: Lowered mask grants +2 armour, but -45 degrees to your view cone.
-Bonus action to raise/lower visor. +1 adjustment score.
-+1kg weight.
-+50% helmet monetary value.
-+50% material cost.
-+150% time-unit cost. No filter (Skill 1) Standard, no effect. Makeshift filter (Skill 1) -45 degrees to your view cone.
-<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 2 turns in combat or high intensity action.
-Bonus/Regular action to change filters. +2kg weight.
-+25% time-unit cost. Standard filter (Skill 2) <br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 3 turns in combat or high intensity action.
-Bonus/Regular action to change filters. +1 adjustment score.
-+1kg weight.
-+25% time-unit cost. Pixie-made filter (Skill 3) <br>Makes the piece pixie-counter-forged, needs a pixie with <a data-tooltip-position="top" aria-label="Pixie Masteries &gt; Counter Mastery" data-href="Pixie Masteries#Counter Mastery" href="races/playable/paths-&amp;-masteries/pixie-masteries.html#Counter Mastery" class="internal-link" target="_self" rel="noopener nofollow">counter mastery</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Pixie Smithing Tools" data-href="General Recipes and Crafting Tools#Pixie Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Pixie Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">pixie smithing tools</a>.
-<br>Allows use of <a data-tooltip-position="top" aria-label="Miscellaneous Tools &gt; Marander Filter" data-href="Miscellaneous Tools#Marander Filter" href="items-&amp;-crafting/miscellaneous-tools.html#Marander Filter" class="internal-link" target="_self" rel="noopener nofollow">marander filters</a> to provide immunity to <a data-tooltip-position="top" aria-label="Statuses &gt; Marander Gas" data-href="Statuses#Marander Gas" href="rules/statuses.html#Marander Gas" class="internal-link" target="_self" rel="noopener nofollow">marander gas</a>. 1 filter lasts for 4 turns in combat or high intensity action.
-Bonus/Regular action to change filters. +2 adjustment score.
-+0.5kg weight
-+50% time-unit cost. I high-key cannot be bothered to introduce entire customisation trees for every animal companion, but if you bother me enough about it I'll maybe consider it. For animal armour just follow the crafting material and time unit requirements on their respective equipment pages. Repairing/adjusting animal armour is the same as normal armour.]]></description><link>items-&amp;-crafting/skilled-crafting/armour-smithing.html</link><guid isPermaLink="false">Items &amp; Crafting/Skilled Crafting/Armour Smithing.md</guid><pubDate>Thu, 20 Aug 2026 09:05:09 GMT</pubDate></item><item><title><![CDATA[Armour Rules]]></title><description><![CDATA[You can equip:
-1 helmet.
-Up to 3 layers of body armour.
-1 cosmetic clothing
-1 cosmetic cloak
-1 cosmetic hat
-Body armour is separated into 3 layers:
-Layer 1: Closest layer to your body, usually used for padding like arming jackets.
-Layer 2: Usually used for mail armour.
-Layer 3: Furthest layer from your body, usually used for plate armour.
-You can equip up to one of each type. Your head and body layers are different. Helmets don't use the layer system, you simply equip 1 helmet.
-Layer 1 is required in order to wear layers 2 and 3.You have a clothing slot, a cloak slot and a hat slot.
-Clothing is equipped under your armour.
-Cloaks are equipped over your armour.
-Hats are equipped over your helmet.
-These provide no protection, but can influence roleplay and skill checks.Certain types of armour need to be properly tailored to the user, or they'll suffer some penalty.Amour needs to be fitted to a person's body. Adjustment score represents how hard it is for the armour to be altered for use by someone else. Adjusting armour will require <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Smithing Tools" data-href="General Recipes and Crafting Tools#Smithing Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Smithing Tools" class="internal-link" target="_self" rel="noopener nofollow">smithing tools</a> or <a data-tooltip-position="top" aria-label="General Recipes and Crafting Tools &gt; Tailoring Tools" data-href="General Recipes and Crafting Tools#Tailoring Tools" href="items-&amp;-crafting/general-recipes-and-crafting-tools.html#Tailoring Tools" class="internal-link" target="_self" rel="noopener nofollow">tailoring tools</a>, depending on material type.
-Tier 1: Can just be used as is.
-Tier 2: Requires a quick adjustment during short rest.
-Tier 3: Requires adjustment during long rest by someone with significant experience in smithing.
-Tier 4+: Requires dedicated equipment and an expert to drastically alter the piece.
-Adjusting crocodilian armour to the other races and vice versa will increase the adjustment score by 2.Wearing armour not suited for you imposes certain downsides, depending on the armour's adjustment score:
-Tier 1: No effect. Tier 2: -1 Hit chance to all attacks.
--1 Melee and ranged defence.
--1 to grappling saving throws. Tier 3: -1 Hit chance to all attacks.
--2 Melee and ranged defence.
--2 to grappling saving throws. Tier 4+: Suffer disadvantage on all attacks and grappling saves.
-Enemies get advantage on you with all attacks.
-<br>Suffer the effects of a <a data-tooltip-position="top" aria-label="Statuses &gt; Broken Ankle" data-href="Statuses#Broken Ankle" href="rules/statuses.html#Broken Ankle" class="internal-link" target="_self" rel="noopener nofollow">broken ankle</a> whilst wearing the armour. You can get a town smith to refit a piece of armour for you, depending on the adjustment score:
-Tier 2: 25% of armour's price.
-Tier 3: 40% of armour's price.
-Tier 4+: 50% of armour's price
-Note that the smith will need to be of sufficient skill to do this. A human smith won't know how to work faery metal, for instance.
-<br>See <a data-href="Armour Smithing" href="items-&amp;-crafting/skilled-crafting/armour-smithing.html" class="internal-link" target="_self" rel="noopener nofollow">Armour Smithing</a> for more information on refitting armour yourself.]]></description><link>items-&amp;-crafting/armour/armour-rules.html</link><guid isPermaLink="false">Items &amp; Crafting/Armour/Armour Rules.md</guid><pubDate>Thu, 20 Aug 2026 08:15:58 GMT</pubDate></item><item><title><![CDATA[Moment of Mortality]]></title><description><![CDATA[If you are at or above half health, any killing blow will reduce you to 1 health instead.On reaching 0 health, instead of dying or being downed, you are instead given a choice:Accept your fate and go all out, one last time.You take your turn immediately and:
+Crocodilian Tongue: 2 ]]></description><link>races/playable/crocodilians.html</link><guid isPermaLink="false">Races/Playable/Crocodilians.md</guid><pubDate>Fri, 21 Aug 2026 01:50:01 GMT</pubDate></item><item><title><![CDATA[Moment of Mortality]]></title><description><![CDATA[If you are at or above half health, any killing blow will reduce you to 1 health instead.On reaching 0 health, instead of dying or being downed, you are instead given a choice:Accept your fate and go all out, one last time.You take your turn immediately and:
 Ignore all negative effects/injuries.
 Take no damage from any attacks.
 Get one guaranteed critical hit/success.
